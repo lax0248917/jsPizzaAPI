@@ -8,7 +8,7 @@
 
 ## TODO
 * Get all the restaurants near an address
-  * Using address: 2206 Welch Dr, Stevensville, MI 49127
+  * Using address: 5930 Cleveland Ave, Stevensville, MI 49127
   * [ ] Figure out the endpoint
   * [ ] Write a library function
 * Get info about a specific restaurant
